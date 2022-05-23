@@ -7,4 +7,4 @@ Analisis estadisticos exploratorios con python
 
  * Assessment Skandia
 
-<p><a href="https://nbviewer.org/github/juankfc/DataScientist-Roadmap/blob/eb961d3e3d3c0704d8f8ef63031ea50dc06d2093/SK%20Assessment/BI_lead.ipynb">Credit Card Marketing Campaign BI Lead</a>
+<p><a href="https://nbviewer.org/github/juankfc/DataScientist-Roadmap/blob/main/SK%20Assessment/BI_lead.ipynb">Credit Card Marketing Campaign BI Lead</a>
